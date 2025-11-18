@@ -1,0 +1,1 @@
+abaqus job=Hole_analysis input=main.inp cpus=1
