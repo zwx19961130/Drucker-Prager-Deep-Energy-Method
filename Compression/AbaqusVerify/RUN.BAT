@@ -1,0 +1,1 @@
+abaqus job=cube_analysis input=main.inp cpus=19
