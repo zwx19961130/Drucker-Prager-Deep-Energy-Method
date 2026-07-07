@@ -1,0 +1,1 @@
+abaqus terminate job=Hole_analysis
